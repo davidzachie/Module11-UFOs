@@ -9,7 +9,7 @@
 
 ### When users open up the UFO sightings website, they will see the introduction section showing the title, background image, and a short article about UFO sightings.  Below it there is a table containing the data and next to the table are five different filters that users can choose: Date, City, State, Country, and Shape.  A single or multiple filters can be entered at the same time to further inspect the data and narrow down the results.  To use the filters, users can simply type in the criteria, e.g. city and state name and press enter.  To remove filtered criterias and see the whole table's data, users can just refresh the website.
 
-![UFO Website](images/UFO_Website)
+![UFO Website](static/images/UFO_Website)
 
 ## **Summary**
 
